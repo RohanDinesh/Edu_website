@@ -1,4 +1,6 @@
-
+# Edu_website
+A simple website of a youtuber, who's launched his channel and is trying to promote it using this website. 
+Website deployed at https://rohandinesh.github.io/Edu_website/
 
 <h1>Home page:</h1>
 
